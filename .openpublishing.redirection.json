@@ -2,7 +2,7 @@
   "redirections":[
   {
     "source_path":"E2E_DocsBranch_Dynamic/index2.md",
-    "redirect_url":"redirection",
+    "redirect_url":"E2E_DocsBranch_Dynamic/redirection",
     "redirect_document_id":false
   }
  ]
